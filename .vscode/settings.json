@@ -1,0 +1,16 @@
+{
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:GoogleAndPhoneAuthentication09032000}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "cSpell.ignoreWords": [
+        "Signin",
+        "gclick",
+        "pclick",
+        "recaptcha"
+    ]
+}
